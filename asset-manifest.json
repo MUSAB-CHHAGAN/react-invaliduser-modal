@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-invaliduser-modal/static/css/main.77b99bdc.css",
+    "main.js": "/react-invaliduser-modal/static/js/main.9c2ca8e5.js",
+    "index.html": "/react-invaliduser-modal/index.html",
+    "main.77b99bdc.css.map": "/react-invaliduser-modal/static/css/main.77b99bdc.css.map",
+    "main.9c2ca8e5.js.map": "/react-invaliduser-modal/static/js/main.9c2ca8e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77b99bdc.css",
+    "static/js/main.9c2ca8e5.js"
+  ]
+}
